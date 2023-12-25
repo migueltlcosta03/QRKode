@@ -1,0 +1,18 @@
+#logo {
+    height: 50vh !important;
+}
+
+.form-control {
+    width: 30% !important;
+}
+
+#convertButton {
+    background-color: rgb(196, 90, 196);
+    font-size: 1rem;
+    color: white;
+    border: none;
+}
+
+#url {
+    color: rgb(196, 90, 196);
+}
